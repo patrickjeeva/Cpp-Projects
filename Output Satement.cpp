@@ -4,5 +4,5 @@ using namespace std;
 
 main()
 {   //start the program
-    cout << "Syed Mohsin Shah" << endl; //display name
+    cout << "Hello, World!" << endl; //display name
 }   //end the program
